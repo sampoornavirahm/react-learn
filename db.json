@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "Identity": "Batman",
+      "Name": "Bruce Wayne",
+      "email": "brucewayne@gmail.com",
+      "publishedAt": "18-11-2022"
+    },
+    {
+      "id": "2",
+      "Identity": "Superman",
+      "Name": "Clark Kent",
+      "email": "clarkkent@gmail.com",
+      "publishedAt": "18-11-2022"
+    },
+    {
+      "id": "3",
+      "Identity": "Spiderman",
+      "Name": "Peter Parker",
+      "email": "peterparker@gmail.com",
+      "publishedAt": "18-11-2022"
+    },
+    {
+      "id": "4",
+      "Identity": "Ironman",
+      "Name": "Tony Stark",
+      "email": "tonystark@gmail.com",
+      "publishedAt": "18-11-2022"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "Batman",
+      "body": "Bruce Wayne",
+      "publishedAt": "2022-11-19"
+    },
+    {
+      "id": "2",
+      "title": "Superman",
+      "body": "Clark Kent",
+      "publishedAt": "18-11-2022"
+    },
+    {
+      "id": "3",
+      "title": "Spiderman",
+      "body": "Peter Parker",
+      "publishedAt": "18-11-2022"
+    },
+    {
+      "id": "4",
+      "title": "Ironman",
+      "body": "Tony Stark",
+      "publishedAt": "18-11-2022"
+    },
+    {
+      "title": "mgfuykjf",
+      "body": "gndgh",
+      "id": "gschgQf"
+    },
+    {
+      "title": "dmhgd",
+      "body": "bfgdghm",
+      "publishedAt": "2022-11-10",
+      "id": "-pW6cZi"
+    }
+  ]
+}
